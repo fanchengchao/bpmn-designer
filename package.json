@@ -1,9 +1,9 @@
 {
   "name": "ts-bomn",
-  "description": "一个基于Vue3.0 + TS 的表单设计器",
+  "description": "一个基于Vue3.0 + TS 的流程设计器",
   "version": "1.2.9",
   "main": "dist/processDesigner.umd.min.js",
-  "homepage": "http://code.yunzhu.de:2080/TS-FE/ts-bpmn-designer",
+  "homepage": "https://github.com/fanchengchao/bpmn-designer.git",
   "author": {
     "name": "ts-gttis"
   },
@@ -17,7 +17,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+http://code.yunzhu.de:2080/TS-FE/ts-bpmn-designer"
+    "url": "git+https://github.com/fanchengchao/bpmn-designer.git"
   },
   "files": [
     "dist"
